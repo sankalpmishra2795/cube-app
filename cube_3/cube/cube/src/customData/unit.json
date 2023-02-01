@@ -1,0 +1,18 @@
+{
+    "units":[
+    {
+      "id":"1",
+      "type":"input",
+      "lable":"Input-unit",
+      "unitInFeet":"ft",
+      "unitInMeter":"m"
+    },
+    {
+      "id":"2",
+      "type":"output",
+      "lable":"Output-unit",
+      "unitInFeet":"ft",
+      "unitInMeter":"m"
+    }
+]
+}
